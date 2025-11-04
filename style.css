@@ -465,7 +465,6 @@ body {
   letter-spacing: 1px;
 }
 
-/* SAĞ KISIM (LİSTELER) */
 .footer-right {
   flex: 2;
   display: grid;
@@ -493,7 +492,6 @@ body {
   color: #A6A29F;
 }
 
-/* ALT KISIM */
 .footer-bottom {
   text-align: left;
   font-size: 12px;
@@ -501,7 +499,6 @@ body {
   margin-top: 60px;
 }
 
-/* RESPONSIVE */
 @media (max-width: 1000px) {
   .footer-content {
     flex-direction: column;
